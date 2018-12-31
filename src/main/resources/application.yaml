@@ -1,0 +1,3 @@
+elastic-search:
+  serverIp: 192.168.232.157
+  serverPort: 9200
